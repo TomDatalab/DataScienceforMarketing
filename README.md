@@ -20,7 +20,11 @@ O objetivo desse material é oferecer aplicações práticas de Data Science no 
 
 1. Comportamento de clientes, modelagem preditiva e sistemas de recomendação.
 2. Como calcular e definir KPIs.
-3. 
+3. Fatores impulsionadores do engajamento, aplicação de regressão linear para interceptação de clientes e estratégia para melhoria da taxa de engajamento.
+4. Fluxo de engajamento até conversão, modelagem de ML para impulsionamento de conversão.
+5. Análise de produtos (análise de dados agregações tendências e padrões).
+6. Recomendações de produtos x clientes, propensão de compras e aplicação em campanhas de marketing.
+7. 
 
 ---
 
