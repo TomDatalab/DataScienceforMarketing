@@ -26,6 +26,10 @@ O objetivo desse material é oferecer aplicações práticas de Data Science no 
 6. Recomendações de produtos x clientes, propensão de compras e aplicação em campanhas de marketing.
 7. Análise exploratória e comportamento de clientes.
 8. Como criar um modelo preditivo para engajamento.
+9. CLV (Customer Lifetime Value) como calular o CLV de clientes.
+10. Como segmentar clientes orientado a dados.
+11. Como reter clientes, aplicação de redes neurais.
+12. Como realizar testes A/B, implementação da metodologia.
 
 ---
 
