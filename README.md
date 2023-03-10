@@ -24,7 +24,8 @@ O objetivo desse material é oferecer aplicações práticas de Data Science no 
 4. Fluxo de engajamento até conversão, modelagem de ML para impulsionamento de conversão.
 5. Análise de produtos (análise de dados agregações tendências e padrões).
 6. Recomendações de produtos x clientes, propensão de compras e aplicação em campanhas de marketing.
-7. 
+7. Análise exploratória e comportamento de clientes.
+8. Como criar um modelo preditivo para engajamento.
 
 ---
 
