@@ -18,18 +18,18 @@ O objetivo desse material é oferecer aplicações práticas de Data Science no 
 
 ## 🧭 Resumo
 
-1. Comportamento de clientes, modelagem preditiva e sistemas de recomendação.
-2. Como calcular e definir KPIs.
-3. Fatores impulsionadores do engajamento, aplicação de regressão linear para interceptação de clientes e estratégia para melhoria da taxa de engajamento.
-4. Fluxo de engajamento até conversão, modelagem de ML para impulsionamento de conversão.
-5. Análise de produtos (análise de dados agregações tendências e padrões).
-6. Recomendações de produtos x clientes, propensão de compras e aplicação em campanhas de marketing.
-7. Análise exploratória e comportamento de clientes.
-8. Como criar um modelo preditivo para engajamento.
-9. CLV (Customer Lifetime Value) como calular o CLV de clientes.
-10. Como segmentar clientes orientado a dados.
-11. Como reter clientes, aplicação de redes neurais.
-12. Como realizar testes A/B, implementação da metodologia.
+1. Comportamento de clientes, modelagem preditiva e sistemas de recomendação. 🐍[CODE PYTHON]()
+2. Como calcular e definir KPIs. 🐍[CODE PYTHON]()
+3. Fatores impulsionadores do engajamento, aplicação de regressão linear para interceptação de clientes e estratégia para melhoria da taxa de engajamento. 🐍[CODE PYTHON]()
+4. Fluxo de engajamento até conversão, modelagem de ML para impulsionamento de conversão. 🐍[CODE PYTHON]()
+5. Análise de produtos (análise de dados agregações tendências e padrões). 🐍[CODE PYTHON]()
+6. Recomendações de produtos x clientes, propensão de compras e aplicação em campanhas de marketing. 🐍[CODE PYTHON]()
+7. Análise exploratória e comportamento de clientes. 🐍[CODE PYTHON]()
+8. Como criar um modelo preditivo para engajamento. 🐍[CODE PYTHON]()
+9. CLV (Customer Lifetime Value) como calular o CLV de clientes. 🐍[CODE PYTHON]()
+10. Como segmentar clientes orientado a dados. 🐍[CODE PYTHON]()
+11. Como reter clientes, aplicação de redes neurais. 🐍[CODE PYTHON]()
+12. Como realizar testes A/B, implementação da metodologia. 🐍[CODE PYTHON]()
 
 ---
 
