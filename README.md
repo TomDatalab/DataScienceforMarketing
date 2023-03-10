@@ -16,7 +16,7 @@ O objetivo desse material é oferecer aplicações práticas de Data Science no 
 
 ---
 
-## 🧭 Resumo
+## 🧭 Resumo 🔆
 
 1. Comportamento de clientes, modelagem preditiva e sistemas de recomendação. 🐍[CODE PYTHON]()
 2. Como calcular e definir KPIs. 🐍[CODE PYTHON]()
